@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 10
 Geraadpleegd op 06-08-2023.
-Geldend van 01-04-2014 t/m 31-12-2014
+Geldend van 01-01-2015 t/m 16-08-2015
 
 Burgerlijk Wetboek Boek 10, Internationaal Privaatrecht
 
@@ -126,7 +126,7 @@ Artikel 22
 
 Artikel 23
 
-1.	Indien de ambtenaar van de burgerlijke stand bij het opstellen van een akte waarin de geslachtsnaam en de voornamen van een vreemdeling moeten worden opgenomen het Nederlandse recht toepast omdat hij de inhoud van het recht dat op de vaststelling van die namen toepasselijk is niet kan vaststellen, deelt hij zijn beslissing onverwijld mede aan de officier van justitie bij de arrondissementsrechtbank binnen welker rechtsgebied de akte in de registers van de burgerlijke stand is opgenomen.
+1.	Indien de ambtenaar van de burgerlijke stand bij het opstellen van een akte waarin de geslachtsnaam en de voornamen van een vreemdeling moeten worden opgenomen het Nederlandse recht toepast omdat hij de inhoud van het recht dat op de vaststelling van die namen toepasselijk is niet kan vaststellen, deelt hij zijn beslissing onverwijld mede aan de officier van justitie in het arrondissement waarin de rechtbank is gelegen waar de akte in de registers van de burgerlijke stand is opgenomen.
 
 2.	De aldus opgemaakte akte kan met overeenkomstige toepassing van artikel 24 van Boek 1 op verzoek van iedere belanghebbende of op vordering van het openbaar ministerie worden verbeterd. Het verzoek van een belanghebbende wordt met toepassing van de Wet op de rechtsbijstand van rechtswege kosteloos behandeld.
 
@@ -1090,3 +1090,13 @@ Artikel 165
 1.	De rechten, genoemd in het op 19 juni 1948 te Genève tot stand gekomen Verdrag betreffende internationale erkenning van rechten op luchtvaartuigen (Trb. 1952, 86) worden erkend onder de voorwaarden en met de gevolgen in dat verdrag vermeld.
 
 2.	Deze erkenning werkt niet ten nadele van een beslagleggende crediteur of van de koper ter executie, wanneer de vestiging of overdracht van bedoelde rechten geschiedde door de geëxecuteerde, terwijl hij kennis droeg van het beslag.
+
+Titel 16. Arbitrage
+
+Artikel 166
+
+In afwijking van artikel 154 is een overeenkomst tot arbitrage materieel geldig als zij geldig is naar het recht dat partijen hebben gekozen of naar het recht van de plaats van arbitrage of, indien partijen geen rechtskeuze hebben gedaan, naar het recht dat van toepassing is op de rechtsbetrekking waarop de arbitrageovereenkomst betrekking heeft.
+
+Artikel 167
+
+Indien een Staat, andere publiekrechtelijke rechtspersoon of staatsonderneming partij is bij een overeenkomst tot arbitrage, kan hij geen beroep doen op zijn wet of regelgeving teneinde zijn bekwaamheid of bevoegdheid tot het aangaan van de overeenkomst tot arbitrage of de vatbaarheid van het geschil voor beslissing door arbitrage te betwisten, indien de wederpartij deze regeling kende noch behoorde te kennen.
