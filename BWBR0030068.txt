@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 10
 Geraadpleegd op 06-08-2023.
-Geldend van 27-08-2015 t/m 04-12-2015
+Geldend van 05-12-2015 t/m 18-09-2018
 
 Burgerlijk Wetboek Boek 10, Internationaal Privaatrecht
 
@@ -163,20 +163,11 @@ Deze afdeling geeft uitvoering aan het op 14 maart 1978 te ’s-Gravenhage tot s
 
 Artikel 28
 
-Het huwelijk wordt voltrokken indien:
-	a.	ieder der aanstaande echtgenoten voldoet aan de vereisten tot het aangaan van een huwelijk van het Nederlandse recht en een van hen uitsluitend of mede de Nederlandse nationaliteit bezit of in Nederland zijn gewone verblijfplaats heeft; of
-	b.	ieder der aanstaande echtgenoten voldoet aan de vereisten tot het aangaan van een huwelijk van een staat waarvan hij de nationaliteit bezit.
+Het huwelijk wordt voltrokken indien ieder der aanstaande echtgenoten voldoet aan de vereisten tot het aangaan van een huwelijk van het Nederlandse recht.
 
 Artikel 29
 
-1.	Ongeacht het in artikel 28 van dit Boek bepaalde kan geen huwelijk worden voltrokken indien zulks op grond van artikel 6 van dit Boek niet zou kunnen worden aanvaard en in ieder geval indien:
-	a.	de aanstaande echtgenoten de leeftijd van vijftien jaren niet hebben bereikt;
-	b.	de aanstaande echtgenoten elkaar van nature of door adoptie bestaan in de rechte lijn of, van nature, als broeder en zuster;
-	c.	de vrije toestemming van een der aanstaande echtgenoten ontbreekt of de geestvermogens van een van hen zodanig zijn gestoord, dat hij niet in staat is zijn wil te bepalen of de betekenis van zijn verklaring te begrijpen;
-	d.	in strijd zou worden gehandeld met het voorschrift dat een persoon tegelijkertijd slechts met één andere persoon door het huwelijk verbonden kan zijn;
-	e.	in strijd zou worden gehandeld met het voorschrift dat zij die een huwelijk willen aangaan, niet tegelijkertijd door een geregistreerd partnerschap mogen zijn verbonden.
-
-2.	De voltrekking van een huwelijk kan niet worden geweigerd op de grond dat volgens het recht van een staat waarvan een van de aanstaande echtgenoten de nationaliteit bezit, een beletsel voor die voltrekking bestaat dat op grond van artikel 6 van dit Boek niet kan worden aanvaard.
+[Vervallen per 05-12-2015]
 
 Artikel 30
 
@@ -194,7 +185,12 @@ Artikel 31
 
 Artikel 32
 
-Ongeacht artikel 31 van dit Boek wordt aan een buiten Nederland gesloten huwelijk erkenning onthouden, indien deze erkenning kennelijk onverenigbaar is met de openbare orde.
+Ongeacht artikel 31 van dit Boek wordt aan een buiten Nederland gesloten huwelijk erkenning onthouden, indien deze erkenning kennelijk onverenigbaar is met de openbare orde en in ieder geval indien een der echtgenoten op het tijdstip van de sluiting van dat huwelijk:
+	a.	reeds gehuwd was of een geregistreerd partnerschap had gesloten met een persoon die de Nederlandse nationaliteit bezat of zelf de Nederlandse nationaliteit bezat of in Nederland zijn gewone verblijfplaats had, tenzij het eerder gesloten huwelijk of geregistreerd partnerschap is ontbonden of nietig verklaard;
+	b.	aan de andere echtgenoot in rechte lijn verwant was of de broer of zuster van die echtgenoot was, hetzij door bloedverwantschap, hetzij door adoptie, tenzij deze familierechtelijke betrekking later is verbroken vanwege het ontbreken van biologische verwantschap of herroeping van de adoptie;
+	c.	niet de leeftijd van achttien jaar had bereikt, tenzij de echtgenoten op het moment dat erkenning van het huwelijk gevraagd wordt beiden de leeftijd van achttien jaar hebben bereikt;
+	d.	geestelijk niet in staat was zijn toestemming te geven, tenzij deze daartoe wel in staat is op het moment dat de erkenning van het huwelijk gevraagd wordt en uitdrukkelijk met de erkenning van het huwelijk instemt; of
+	e.	niet vrijelijk zijn toestemming tot het huwelijk had gegeven, tenzij deze uitdrukkelijk met de erkenning van het huwelijk instemt.
 
 Artikel 33
 
