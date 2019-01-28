@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 10
 Geraadpleegd op 06-08-2023.
-Geldend van 19-09-2018 t/m 28-01-2019
+Geldend van 29-01-2019 t/m 31-12-2021
 
 Burgerlijk Wetboek Boek 10, Internationaal Privaatrecht
 
@@ -208,11 +208,11 @@ Afdeling 2. Rechtsbetrekkingen tussen de echtgenoten
 
 Artikel 34a
 
-[Dit onderdeel is nog niet inwerking getreden]
+In deze afdeling wordt onder «de Verordening (EU) nr. 2016/1103» verstaan: de Verordening (EU) nr. 2016/1103 van de Raad van 24 juni 2016 tot uitvoering van de nauwere samenwerking op het gebied van de bevoegdheid, het toepasselijke recht en de erkenning en tenuitvoerlegging van beslissingen op het gebied van huwelijksvermogensstelsels (PbEU 2016, L 183).
 
 Artikel 35
 
-1.	De persoonlijke rechtsbetrekkingen tussen de echtgenoten onderling worden beheerst door het recht dat de echtgenoten voor of tijdens het huwelijk, al dan niet met wijziging van een eerdere aanwijzing, hebben aangewezen.
+1.	De persoonlijke rechtsbetrekkingen tussen de echtgenoten onderling die niet worden begrepen onder de Verordening (EU) nr. 2016/1103, worden beheerst door het recht dat de echtgenoten voor of tijdens het huwelijk, al dan niet met wijziging van een eerdere aanwijzing, hebben aangewezen.
 
 2.	De echtgenoten kunnen slechts een van de volgende rechtsstelsels aanwijzen:
 	a.	het recht van de staat van een gemeenschappelijke nationaliteit van de echtgenoten, of
@@ -222,7 +222,7 @@ Artikel 35
 
 Artikel 36
 
-Bij gebreke van een aanwijzing van het toepasselijke recht worden de persoonlijke rechtsbetrekkingen tussen de echtgenoten onderling beheerst:
+Bij gebreke van een aanwijzing van het toepasselijke recht worden de persoonlijke rechtsbetrekkingen tussen de echtgenoten onderling die niet worden begrepen onder de Verordening (EU) nr. 2016/1103 beheerst:
 	a.	door het recht van de staat van de gemeenschappelijke nationaliteit van de echtgenoten, of bij gebreke daarvan
 	b.	door het recht van de staat waar zij elk hun gewone verblijfplaats hebben, of bij gebreke daarvan
 	c.	door het recht van de staat waarmee zij, alle omstandigheden in aanmerking genomen, het nauwst zijn verbonden.
@@ -237,29 +237,31 @@ Indien een aanwijzing als bedoeld in artikel 35 van dit Boek of een wijziging in
 
 Artikel 39
 
-De vraag in hoeverre een echtgenoot aansprakelijk is voor verbintenissen ten behoeve van de gewone gang van de huishouding, welke door de andere echtgenoot zijn aangegaan wordt, indien die andere echtgenoot en de wederpartij ten tijde van het aangaan van de verbintenis elk hun gewone verblijfplaats hadden in dezelfde staat, beheerst door het recht van die staat en bij gebreke daarvan door het recht dat op die verbintenis toepasselijk is.
+[Vervallen per 29-01-2019]
 
 Artikel 40
 
-De vraag of een echtgenoot voor een rechtshandeling de toestemming van de andere echtgenoot behoeft, en zo ja, in welke vorm deze toestemming moet worden verleend, of zij kan worden vervangen door een beslissing van de rechter of een andere autoriteit, alsmede welke de gevolgen zijn van het ontbreken van deze toestemming, wordt beheerst door het recht van de staat waar de andere echtgenoot ten tijde van het verrichten van die rechtshandeling zijn gewone verblijfplaats heeft.
+[Vervallen per 29-01-2019]
 
 Artikel 41
 
-De artikelen 39 en 40 van dit Boek gelden ongeacht het recht dat het huwelijksvermogensregime van de echtgenoten beheerst, en ongeacht het recht dat van toepassing is op de persoonlijke rechtsbetrekkingen tussen de echtgenoten.
+[Vervallen per 29-01-2019]
 
-Afdeling 3. Het huwelijksvermogensregime
+Afdeling 3. Enkele bepalingen inzake het huwelijksvermogensregime
 
 Artikel 42
 
-Voor de toepassing van deze afdeling wordt verstaan onder het Haags Huwelijksvermogensverdrag 1978: het op 14 maart 1978 te ’s-Gravenhage tot stand gekomen Verdrag inzake het recht dat van toepassing is op het huwelijksvermogensregime (Trb. 1988, 130).
+1.	In deze afdeling wordt onder de Verordening (EU) nr. 2016/1103 verstaan: de Verordening (EU) nr. 2016/1103 van de Raad van 24 juni 2016 tot uitvoering van de nauwere samenwerking op het gebied van de bevoegdheid, het toepasselijke recht en de erkenning en tenuitvoerlegging van beslissingen op het gebied van huwelijksvermogensstelsels
+
+2.	In aanvulling op de Verordening (EU) nr. 2016/1103 zijn de bepalingen van deze afdeling van toepassing.
 
 Artikel 43
 
-Bij het ontbreken van een aanwijzing van het toepasselijke recht overeenkomstig het Haags Huwelijksvermogensverdrag 1978 wordt, behoudens in het geval van artikel 5 lid 2 of artikel 7 lid 2 van dit verdrag, het huwelijksvermogensregime van echtgenoten die beiden ten tijde van de sluiting van het huwelijk de Nederlandse nationaliteit bezitten beheerst door Nederlands recht, ongeacht of zij beiden of een hunner nog een andere nationaliteit bezitten. Bezitten de echtgenoten meer dan een gemeenschappelijke nationaliteit, dan worden zij geacht geen gemeenschappelijke nationaliteit te bezitten.
+[Vervallen per 29-01-2019]
 
 Artikel 44
 
-De gevolgen van het huwelijksvermogensregime ten aanzien van een rechtsbetrekking tussen een echtgenoot en een derde worden beheerst door het recht dat op het huwelijksvermogensregime toepasselijk is.
+[Vervallen per 29-01-2019]
 
 Artikel 45
 
@@ -267,19 +269,15 @@ Een echtgenoot wiens huwelijksvermogensregime wordt beheerst door vreemd recht k
 
 Artikel 46
 
-1.	Een derde die tijdens het huwelijk een rechtshandeling heeft verricht met een echtgenoot wiens huwelijksvermogensregime wordt beheerst door vreemd recht, kan, indien zowel hij als de beide echtgenoten ten tijde van die rechtshandeling hun gewone verblijfplaats in Nederland hadden, voor de uit die rechtshandeling voortvloeiende schuld ook na de ontbinding van het huwelijk verhaal nemen op de echtgenoten alsof tussen hen naar Nederlands recht algehele gemeenschap van goederen bestond.
-
-2.	Lid 1 geldt niet indien de derde ten tijde van de rechtshandeling wist of behoorde te weten dat het huwelijksvermogensregime van de echtgenoten werd beheerst door vreemd recht. Zulks wordt geacht het geval te zijn indien de rechtshandeling werd verricht na verloop van veertien dagen nadat een akte als bedoeld in artikel 45 van dit Boek was ingeschreven in het aldaar bedoelde register.
+[Vervallen per 29-01-2019]
 
 Artikel 47
 
-Heeft een der echtgenoten door de toepassing op een buitenslands gelegen vermogensbestanddeel van een krachtens het internationaal privaatrecht van het land van ligging aangewezen recht een voordeel genoten dat hem niet zou zijn toegekomen indien het op grond van dit Boek aangewezen recht zou zijn toegepast, dan kan de andere echtgenoot daarvan verrekening of vergoeding vorderen bij de in verband met de beëindiging of wijziging van het huwelijksvermogensregime plaatsvindende afrekening.
+Heeft een der echtgenoten door de toepassing op een buitenslands gelegen vermogensbestanddeel van een krachtens het internationaal privaatrecht van het land van ligging aangewezen recht een voordeel genoten dat hem niet zou zijn toegekomen indien het op grond van de Verordening (EU) nr. 2016/1103 aangewezen recht zou zijn toegepast, dan kan de andere echtgenoot daarvan verrekening of vergoeding vorderen bij de in verband met de beëindiging of wijziging van het huwelijksvermogensregime plaatsvindende afrekening.
 
 Artikel 48
 
-Artikel 92 lid 3 van Boek 1 is uitsluitend van toepassing ter zake van verhaal dat in Nederland wordt uitgeoefend op
-	a.	een echtgenoot wiens huwelijksvermogensregime wordt beheerst door Nederlands recht, of
-	b.	een echtgenoot op wie ingevolge artikel 46 van dit Boek verhaal mogelijk is.
+[Vervallen per 29-01-2019]
 
 Artikel 49
 
@@ -287,19 +285,17 @@ Artikel 49
 
 Artikel 50
 
-Artikel 131 van Boek 1 is ook van toepassing indien het huwelijksvermogensregime van de echtgenoten door een vreemd recht wordt beheerst.
+[Vervallen per 29-01-2019]
 
 Artikel 51
 
-Of een echtgenoot bij echtscheiding of scheiding van tafel en bed recht heeft op een gedeelte van de door de andere echtgenoot opgebouwde pensioenrechten, wordt beheerst door het recht dat van toepassing is op het huwelijksvermogensregime van de echtgenoten, behoudens artikel 1 lid 7 van de Wet verevening pensioenrechten bij scheiding.
+1.	Of een echtgenoot bij echtscheiding of scheiding van tafel en bed recht heeft op een gedeelte van de door de andere echtgenoot opgebouwde pensioenrechten, wordt beheerst door het recht dat van toepassing is op het huwelijksvermogensregime van de echtgenoten, behoudens artikel 1 lid 7 van de Wet verevening pensioenrechten bij scheiding.
+
+2.	Het voorgaande lid is van toepassing op de verevening van pensioenrechten van echtgenoten die na 1 maart 2001 van tafel en bed zijn gescheiden of wier huwelijk na 1 maart 2001 is ontbonden.
 
 Artikel 52
 
-1.	Deze afdeling is van toepassing op het huwelijksvermogensregime van echtgenoten die na 1 september 1992 in het huwelijk zijn getreden.
-
-2.	In afwijking van lid 1 is artikel 51 van dit Boek van toepassing op de verevening van pensioenrechten van echtgenoten die na 1 maart 2001 van tafel en bed zijn gescheiden of wier huwelijk na 1 maart 2001 is ontbonden.
-
-3.	De bepalingen van deze afdeling betreffende de aanwijzing van het toepasselijke recht zijn van toepassing op het huwelijksvermogensregime van echtgenoten die voor 1 september 1992 in het huwelijk zijn getreden en die na dat tijdstip het daarop toepasselijke recht hebben aangewezen.
+[Vervallen per 29-01-2019]
 
 Artikel 53
 
@@ -385,11 +381,11 @@ Afdeling 3. Rechtsbetrekkingen tussen de geregistreerde partners
 
 Artikel 63a
 
-[Dit onderdeel is nog niet inwerking getreden]
+In deze afdeling wordt onder «de Verordening (EU) nr. 2016/1104» verstaan de Verordening (EU) nr. 2016/1104 van de Raad van 24 juni 2016 tot uitvoering van de nauwere samenwerking op het gebied van de bevoegdheid, het toepasselijke recht en de erkenning en tenuitvoerlegging van beslissingen op het gebied van de vermogensrechtelijke gevolgen van geregistreerde partnerschappen.
 
 Artikel 64
 
-1.	De persoonlijke rechtsbetrekkingen tussen de partners onderling worden beheerst door het recht dat de partners voor of tijdens het geregistreerd partnerschap, al dan niet met wijziging van een eerdere aanwijzing, hebben aangewezen.
+1.	De persoonlijke rechtsbetrekkingen tussen de partners onderling die niet worden begrepen onder de Verordening (EU) nr. 2016/1104, worden beheerst door het recht dat de partners voor of tijdens het geregistreerd partnerschap, al dan niet met wijziging van een eerdere aanwijzing, hebben aangewezen.
 
 2.	De partners kunnen slechts een rechtsstelsel aanwijzen dat het instituut van het geregistreerd partnerschap kent.
 
@@ -397,7 +393,7 @@ Artikel 64
 
 Artikel 65
 
-Bij gebreke van een aanwijzing van het toepasselijke recht worden de persoonlijke rechtsbetrekkingen tussen partners die in Nederland een geregistreerd partnerschap zijn aangegaan, beheerst door het Nederlandse recht. Zijn de partners buiten Nederland een geregistreerd partnerschap aangegaan, dan worden de persoonlijke rechtsbetrekkingen tussen hen beheerst door het recht, met inbegrip van het internationaal privaarecht, van de staat waar het geregistreerd partnerschap is aangegaan.
+Bij gebreke van een aanwijzing van het toepasselijke recht worden de persoonlijke rechtsbetrekkingen die niet worden begrepen onder de Verordening (EU) nr. 2016/1104 tussen partners die in Nederland een geregistreerd partnerschap zijn aangegaan, beheerst door het Nederlandse recht. Zijn de partners buiten Nederland een geregistreerd partnerschap aangegaan, dan worden deze persoonlijke rechtsbetrekkingen tussen hen beheerst door het recht, met inbegrip van het internationaal privaarecht, van de staat waar het geregistreerd partnerschap is aangegaan.
 
 Artikel 66
 
@@ -405,61 +401,55 @@ Indien een aanwijzing als bedoeld in artikel 64 leidt tot toepasselijkheid van e
 
 Artikel 67
 
-De vraag in hoeverre een partner aansprakelijk is voor verbintenissen ten behoeve van de gewone gang van het huishouden welke door de andere partner zijn aangegaan, wordt, indien die andere partner en de wederpartij ten tijde van het aangaan van de verbintenis hun gewone verblijfplaats hadden in Nederland, beheerst door het Nederlandse recht.
+[Vervallen per 29-01-2019]
 
 Artikel 68
 
-De vraag of een partner voor een rechtshandeling de toestemming van de andere partner behoeft, en zo ja, in welke vorm deze toestemming moet worden verleend, of zij kan worden vervangen door een beslissing van de rechter of een andere autoriteit, alsmede welke de gevolgen zijn van het ontbreken van deze toestemming, wordt beheerst door het Nederlandse recht indien de andere partner ten tijde van het verrichten van die rechtshandeling zijn gewone verblijfplaats heeft in Nederland.
+[Vervallen per 29-01-2019]
 
 Artikel 69
 
-De artikelen 67 en 68 van dit Boek gelden ongeacht het recht dat het partnerschapsvermogensregime van de partners beheerst en ongeacht het recht dat van toepassing is op de persoonlijke rechtsbetrekkingen tussen de partners.
+[Vervallen per 29-01-2019]
 
-Afdeling 4. Het partnerschapsvermogensregime
+Afdeling 4. Enkele bepalingen inzake het partnerschapsvermogensregime
 
 Artikel 70
 
-1.	Op het vermogensregime van een geregistreerd partnerschap is van toepassing het recht dat de partners vóór het aangaan daarvan hebben aangewezen.
+1.	In deze afdeling wordt onder de Verordening (EU) nr. 2016/1104 verstaan: de Verordening (EU) nr. 2016/1104 van de Raad van 24 juni 2016 tot uitvoering van de nauwere samenwerking op het gebied van de bevoegdheid, het toepasselijke recht en de erkenning en tenuitvoerlegging van beslissingen op het gebied van de vermogensrechtelijke gevolgen van geregistreerde partnerschappen.
 
-2.	Het aldus aangewezen recht is van toepassing op hun gehele vermogen. De partners kunnen echter, ongeacht of zij tot de aanwijzing, bedoeld in lid 1, zijn overgegaan, met betrekking tot het geheel of een gedeelte van de onroerende zaken, alsmede met betrekking tot onroerende zaken die later worden verkregen, het recht aanwijzen van de plaats waar die zaken zijn gelegen.
-
-3.	In alle gevallen kunnen de partners uitsluitend een rechtsstelsel aanwijzen dat het instituut van het geregistreerd partnerschap kent.
+2.	In aanvulling op de Verordening (EU) nr. 2016/1104 zijn de bepalingen van deze afdeling van toepassing.
 
 Artikel 71
 
-1.	Indien het geregistreerd partnerschap in Nederland is aangegaan en de partners vóór het aangaan daarvan het toepasselijke recht niet hebben aangewezen, wordt hun vermogensregime beheerst door het Nederlandse recht.
-
-2.	Indien het geregistreerd partnerschap buiten Nederland is aangegaan en de partners vóór het aangaan daarvan het toepasselijke recht niet hebben aangewezen, wordt hun vermogensregime beheerst door het recht, met inbegrip van het internationaal privaatrecht, van de staat waar het geregistreerd partnerschap is aangegaan.
+[Vervallen per 29-01-2019]
 
 Artikel 72
 
-1.	Tijdens het geregistreerd partnerschap kunnen de partners hun partnerschapsvermogensregime onderwerpen aan een ander intern recht dan het recht dat tot dusver van toepassing was.
-
-2.	De leden 2 en 3 van artikel 70 van dit Boek zijn van overeenkomstige toepassing.
+[Vervallen per 29-01-2019]
 
 Artikel 73
 
-Het recht dat op grond van de bepalingen van deze afdeling van toepassing is op het partnerschapsvermogensregime of dat de partners rechtsgeldig als toepasselijk hebben aangewezen, blijft van toepassing zolang zij geen ander toepasselijk recht hebben aangewezen, zelfs in geval van wijziging van hun nationaliteit of gewone verblijfplaats.
+[Vervallen per 29-01-2019]
 
 Artikel 74
 
-De voorwaarden voor de wilsovereenstemming van de partners inzake het recht dat zij als toepasselijk aanwijzen op hun partnerschapsvermogensregime, worden door dat recht bepaald.
+[Vervallen per 29-01-2019]
 
 Artikel 75
 
-De aanwijzing van het toepasselijke recht op het partnerschapsvermogensregime moet uitdrukkelijk zijn overeengekomen of anderszins ondubbelzinnig voortvloeien uit partnerschapsvoorwaarden.
+[Vervallen per 29-01-2019]
 
 Artikel 76
 
-Partnerschapsvoorwaarden zijn, wat de vorm betreft, geldig indien zij in overeenstemming zijn, hetzij met het interne recht dat van toepassing is op het partnerschapsvermogensregime, hetzij met het interne recht van de plaats waar zij zijn aangegaan. Zij worden in elk geval neergelegd in een gedagtekend en door beide partners ondertekend schriftelijk stuk.
+[Vervallen per 29-01-2019]
 
 Artikel 77
 
-Een uitdrukkelijk overeengekomen aanwijzing van het op het partnerschapsvermogensregime toepasselijke recht geschiedt in de vorm welke voor partnerschapsvoorwaarden is voorgeschreven, hetzij door het aangewezen interne recht, hetzij door het interne recht van de plaats waar die aanwijzing geschiedt. De aanwijzing wordt in elk geval neergelegd in een gedagtekend en door beide partners ondertekend schriftelijk stuk.
+[Vervallen per 29-01-2019]
 
 Artikel 78
 
-De gevolgen van het partnerschapsvermogensregime ten aanzien van een rechtsbetrekking tussen een partner en een derde worden beheerst door het recht dat op het partnerschapsvermogensregime toepasselijk is.
+[Vervallen per 29-01-2019]
 
 Artikel 79
 
@@ -467,19 +457,15 @@ Een partner wiens partnerschapsvermogensregime wordt beheerst door vreemd recht,
 
 Artikel 80
 
-1.	Een derde die tijdens het geregistreerd partnerschap een rechtshandeling heeft verricht met een partner wiens partnerschapsvermogensregime wordt beheerst door vreemd recht kan, indien zowel hij als de beide partners ten tijde van die rechtshandeling hun gewone verblijfplaats in Nederland hadden, voor de uit die rechtshandeling voortvloeiende schuld ook na de beëindiging van het geregistreerd partnerschap verhaal nemen alsof tussen de partners naar Nederlands recht algehele gemeenschap van goederen bestond.
-
-2.	Lid 1 geldt niet indien de derde ten tijde van de rechtshandeling wist of behoorde te weten dat het partnerschapsvermogensregime van de partners werd beheerst door vreemd recht. Zulks wordt geacht het geval te zijn indien de rechtshandeling werd verricht na verloop van veertien dagen nadat een akte als bedoeld in artikel 79 van dit Boek was ingeschreven in het aldaar bedoelde register.
+[Vervallen per 29-01-2019]
 
 Artikel 81
 
-Heeft een der partners, door de toepassing op een buitenslands gelegen vermogensbestanddeel van een krachtens het internationaal privaatrecht van het land van ligging aangewezen recht, ten opzichte van de andere partner een voordeel genoten dat hem niet zou zijn toegekomen indien het op grond van deze wet aangewezen recht zou zijn toegepast, dan kan die andere partner daarvan verrekening of vergoeding vorderen bij de in verband met de beëindiging of wijziging van het partnerschapsvermogensregime tussen de partners plaatsvindende afrekening.
+Heeft een der partners, door de toepassing op een buitenslands gelegen vermogensbestanddeel van een krachtens het internationaal privaatrecht van het land van ligging aangewezen recht, ten opzichte van de andere partner een voordeel genoten dat hem niet zou zijn toegekomen indien het op grond van de Verordening (EU) nr. 2016/1104 aangewezen recht zou zijn toegepast, dan kan die andere partner daarvan verrekening of vergoeding vorderen bij de in verband met de beëindiging of wijziging van het partnerschapsvermogensregime tussen de partners plaatsvindende afrekening.
 
 Artikel 82
 
-Artikel 92 lid 3 van Boek 1 is uitsluitend van toepassing ter zake van verhaal dat in Nederland wordt uitgeoefend op:
-	a.	een partner wiens partnerschapsvermogensregime wordt beheerst door het Nederlandse recht, of
-	b.	een partner op wie ingevolge artikel 80 van dit Boek verhaal mogelijk is.
+[Vervallen per 29-01-2019]
 
 Artikel 83
 
@@ -487,7 +473,7 @@ Artikel 83
 
 Artikel 84
 
-Artikel 131 van Boek 1 is ook van toepassing indien het partnerschapsvermogensregime van de partners door een vreemd recht wordt beheerst.
+[Vervallen per 29-01-2019]
 
 Artikel 85
 
